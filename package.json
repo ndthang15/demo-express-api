@@ -1,0 +1,19 @@
+{
+  "name": "demo-1",
+  "version": "1.0.0",
+  "description": "the course deo project",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
