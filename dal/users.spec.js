@@ -1,4 +1,4 @@
-const dalStudent = require('./student');
+const dalStudent = require('./users')();
 
 describe('Unit-tests for dalStudent', function () {
     describe('#require', function () {

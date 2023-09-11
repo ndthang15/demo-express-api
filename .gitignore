@@ -116,3 +116,6 @@ yarn.lock
 testconfig.json
 
 server.json
+
+#Flyway
+flyway-7.1.0/
